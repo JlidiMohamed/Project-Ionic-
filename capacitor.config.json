@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AtelierIonic",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

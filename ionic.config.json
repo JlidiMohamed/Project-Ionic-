@@ -1,0 +1,7 @@
+{
+  "name": "AtelierIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
